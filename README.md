@@ -1,3 +1,5 @@
+![Power BI Wallpaper](power bi.jpg)
+
 # 📊 Power BI Projects
 
 Welcome to my Power BI portfolio! This repository contains interactive dashboards and data analysis projects built using Microsoft Power BI. Each project showcases my skills in data cleaning, DAX, data modeling, and visual storytelling.
