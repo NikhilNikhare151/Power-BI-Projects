@@ -2,45 +2,63 @@
 
 # 📊 Power BI Projects
 
-Welcome to my Power BI portfolio! This repository contains interactive dashboards and data analysis projects built using Microsoft Power BI. Each project showcases my skills in data cleaning, DAX, data modeling, and visual storytelling.
+Welcome to the **Power BI Projects** repository! This collection showcases interactive dashboards built using Power BI to solve real-world business problems in different domains such as **banking** and **e-commerce**.
 
 ---
 
-## 📁 Project List
+## 💳 Project 1: Cardholder Spend & Engagement Dashboard
 
-### 1. **Sales Performance Dashboard**
-- **Description**: Analyzes monthly sales, revenue by region, and top-performing products.
-- **Dataset**: Sample retail dataset
-- **Tools**: Power BI, DAX, data modeling
-- **Link**: [View Dashboard](#) *(if published on Power BI Service or included as a screenshot)*
+This dashboard analyzes credit card customer behavior and performance metrics, helping financial institutions track KPIs, acquisition costs, and customer insights.
 
-### 2. **HR Analytics Dashboard**
-- **Description**: Insights into employee turnover, demographics, and department-wise distribution.
-- **Dataset**: HR data (anonymized)
-- **Tools**: Power BI, Power Query, DAX
-- **Link**: [View Dashboard](#)
+### 🔍 Key Highlights:
+- **Total Customers**: 10.11K
+- **Total Transactions**: 656K
+- **Total Transaction Amount**: 45M
+- **Avg. Annual Fees**: \$291.85
+- **Avg. Customer Acquisition Cost**: \$96.25
+- **Avg. Income of Customer**: \$56.98K
 
----
-
-## 🛠️ Tools & Skills Used
-
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Power Query (M Language)
-- Data Modeling
-- Data Cleaning & Transformation
-- KPI and Performance Metrics
-- Interactive Reports & Dashboards
+### 📊 Insights Include:
+- Customer demographics: gender, education, marital status
+- Card category usage and expense types
+- Annual fees and interest earned by card type
+- Monthly and age-based transaction trends
+- Income distribution by job type
 
 ---
 
-## 📷 Screenshots
+## 📦 Project 2: E-Commerce Delivery and Customer Insight Dashboard
 
-### Sales Performance Dashboard
+This dashboard provides end-to-end visibility into the delivery performance and customer satisfaction metrics for an e-commerce company.
 
-![Sales Dashboard](images/sales_dashboard.png)
+### 🔍 Key Highlights:
+- **Avg. Cost of Product**: \$210.20
+- **Avg. Discount Offered**: 13.37%
+- **Avg. Customer Rating**: 2.99
+- **Avg. Shipping Weight**: 3634.02 gm
+- **On-Time Delivery Rate**: 59.67%
+
+### 📊 Insights Include:
+- Delivery timeliness by shipping method
+- Product cost by warehouse block
+- Customer rating vs support calls
+- Cost vs weight analysis
+- Gender and product importance segmentation
 
 ---
 
-## 🗂️ Folder Structure
+## 🛠️ Tools Used
+
+- Power BI (for data modeling & visualization)
+- DAX (for calculated fields and KPIs)
+- Excel/CSV as data sources
+
+---
+
+## 🚀 How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/power-bi-projects.git
+
 
