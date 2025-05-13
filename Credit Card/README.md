@@ -1,1 +1,1 @@
-![Sales Dashboard](Dashboard Image 2.PNG)
+![Sales Dashboard](Dashboard_Image.PNG)
