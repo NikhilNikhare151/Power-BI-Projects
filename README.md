@@ -1,4 +1,4 @@
-![Power BI Wallpaper](power bi.jpg)
+![Power BI Dashboard](power bi.JPG)
 
 # 📊 Power BI Projects
 
