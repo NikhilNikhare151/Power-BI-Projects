@@ -1,4 +1,4 @@
-![Power BI Dashboard](images/power-bi.jpg)
+![Power BI Dashboard](images/power bi.JPG)
 
 
 # 📊 Power BI Projects
