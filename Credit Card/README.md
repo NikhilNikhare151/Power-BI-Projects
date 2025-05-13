@@ -36,7 +36,7 @@ The **Cardholder Spend & Engagement Dashboard** includes:
 
 ## 🖼️ Dashboard Screenshot
 
-![Cardholder Dashboard](image/Dashboard%20Image%202.PNG)
+![Cardholder Dashboard](images/dashboard_screenshot.PNG)
 
 ---
 
