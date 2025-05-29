@@ -10,6 +10,12 @@ The goal of this project is to visualize and analyze customer data to understand
 ### ✨ Key Highlights
 
 ### 📌 Dashboard 1: Customer Overview & Segmentation
+
+### 🖼️ Dashboard Screenshot
+
+![telecom customer churn](images/Dashboard1.PNG)
+
+
 - Total Active Customers: 4,720
 - Average Tenure: 32.39 months
 - Average Monthly Charge: $63.60
@@ -26,6 +32,12 @@ The goal of this project is to visualize and analyze customer data to understand
 ![Customer Overview & Segmentation](Dashboard1.PNG)
 
 ### 📌 Dashboard 2: Churn Analysis & Revenue Impact
+
+### 🖼️ Dashboard Screenshot
+
+![telecom customer churn](images/Dashboard2.PNG)
+
+
 - Total Churned Customers: 1,869
 - Churn Rate: 26.54%
 - Revenue Lost Due to Churn: $3.68M
