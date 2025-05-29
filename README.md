@@ -54,25 +54,25 @@ This Power BI project focuses on Customer Overview & Segmentation and Churn Anal
 ### 🔍 Key Highlights:
 
 ### Dashboard 1: Customer Overview & Segmentation
-Gender distribution is equal (50% Male, 50% Female).
-Majority of customers use Bank Transfer (63%) and Credit Card (33%) for payment.
-Highest customer presence in Los Angeles and San Diego.
-Senior citizens have a higher churn rate compared to non-senior customers.
-Customers aged 65–80 and 19–24 incur the highest extra data charges.
-Revenue is mostly contributed by age groups 65–80, 55–64, and 25–34.
+- Gender distribution is equal (50% Male, 50% Female).
+- Majority of customers use Bank Transfer (63%) and Credit Card (33%) for payment.
+- Highest customer presence in Los Angeles and San Diego.
+- Senior citizens have a higher churn rate compared to non-senior customers.
+- Customers aged 65–80 and 19–24 incur the highest extra data charges.
+- Revenue is mostly contributed by age groups 65–80, 55–64, and 25–34.
 
 ### Dashboard 2: Churn Analysis & Revenue Impact
-Total churned customers: 1,869 (26.54%).
-Highest churn among Fiber Optic users (1.2K).
-Month-to-Month contracts account for 88.55% of churn.
-Major churn reasons include: Attitude of service/support, Better offers by competitors, and Poor network reliability.
-Estimated revenue loss due to churn: $3.68M, with $1.7M lost to competitor switch.
+- Total churned customers: 1,869 (26.54%).
+- Highest churn among Fiber Optic users (1.2K).
+- Month-to-Month contracts account for 88.55% of churn.
+- Major churn reasons include: Attitude of service/support, Better offers by competitors, and Poor network reliability.
+- Estimated revenue loss due to churn: $3.68M, with $1.7M lost to competitor switch.
 
 ### 📊 Insights Include:
-Customer Retention Opportunity: Customers on long-term contracts churn significantly less — incentive programs for month-to-month users can reduce churn.
-High Churn in Fiber Optic: Indicates dissatisfaction with this service type; targeted improvements could prevent large-scale losses.
-Revenue Optimization: Retaining high-value customers (with high monthly charges and long tenures) can significantly reduce churn impact.
-Targeted Support: Customers citing poor service attitude and dissatisfaction could be retained with better customer support training and feedback loops.
+- Customer Retention Opportunity: Customers on long-term contracts churn significantly less — incentive programs for month-to-month users can reduce churn.
+- High Churn in Fiber Optic: Indicates dissatisfaction with this service type; targeted improvements could prevent large-scale losses.
+- Revenue Optimization: Retaining high-value customers (with high monthly charges and long tenures) can significantly reduce churn impact.
+- Targeted Support: Customers citing poor service attitude and dissatisfaction could be retained with better customer support training and feedback loops.
 
 ----
 
