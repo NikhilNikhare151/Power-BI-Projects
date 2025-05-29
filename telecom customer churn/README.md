@@ -7,13 +7,9 @@ The goal of this project is to visualize and analyze customer data to understand
 
 ### The project is divided into two dashboards:
 
-### Dashboard 1 : Customer Overview & Segmentation
+### ✨ Key Highlights
 
-### Dashboard 2 : Churn Analysis & Revenue Impact
-
-✨ ### Key Highlights
-
-📌 ### Dashboard 1: Customer Overview & Segmentation
+### 📌 Dashboard 1: Customer Overview & Segmentation
 - Total Active Customers: 4,720
 - Average Tenure: 32.39 months
 - Average Monthly Charge: $63.60
@@ -25,7 +21,7 @@ The goal of this project is to visualize and analyze customer data to understand
 - Highest Extra Data Charges: Age groups 65–80 and 19–24
 - Revenue Contribution: Highest from customers aged 65–80, followed by 55–64
 
-📌 ### Dashboard 2: Churn Analysis & Revenue Impact
+### 📌 Dashboard 2: Churn Analysis & Revenue Impact
 - Total Churned Customers: 1,869
 - Churn Rate: 26.54%
 - Revenue Lost Due to Churn: $3.68M
@@ -39,17 +35,17 @@ The goal of this project is to visualize and analyze customer data to understand
 - Churn by Internet Service: Fiber Optic has the highest churn (1.2K customers)
 - Churn by Payment Method: Highest among Bank Transfer users (74%)
 
-🔍 ### Business Insights
+### 🔍 Business Insights
 - Long-term contracts result in lower churn — offer incentives for switching from Month-to-Month to Annual contracts.
 - Fiber Optic service users churn the most — indicates an area needing performance or satisfaction improvement.
 - Majority of churned users are high monthly charge customers — proactive engagement with high-value customers can prevent revenue loss.
 - Customer support issues are a key churn driver — enhancing service quality can reduce dissatisfaction-related churn.
 
-🛠 ### Tools & Technologies Used
+### 🛠 Tools & Technologies Used
 - Power BI – for dashboard creation and data visualization
 - Microsoft Excel – for data cleaning and preparation
 - DAX – for calculated fields and measures
 - Slicers & Filters – for interactive exploration of the dataset
 
-📌 ### Conclusion
+### 📌 Conclusion
 This project demonstrates how Power BI can be used to uncover valuable business insights from customer data. It empowers telecom providers to make strategic decisions aimed at reducing churn and boosting customer satisfaction.
