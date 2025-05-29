@@ -32,7 +32,7 @@ The goal of this project is to visualize and analyze customer data to understand
 
 ### 🖼️ Dashboard Screenshot
 
-![telecom customer churn](images/Dashboard 2.PNG)
+![Dashboard 2](images/Dashboard%202.PNG)
 
 
 - Total Churned Customers: 1,869
