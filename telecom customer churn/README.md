@@ -13,7 +13,7 @@ The goal of this project is to visualize and analyze customer data to understand
 
 ### 🖼️ Dashboard Screenshot
 
-![telecom customer churn](images/Dashboard1.PNG)
+![telecom customer churn](images/Dashboard 1.PNG)
 
 
 - Total Active Customers: 4,720
@@ -27,15 +27,12 @@ The goal of this project is to visualize and analyze customer data to understand
 - Highest Extra Data Charges: Age groups 65–80 and 19–24
 - Revenue Contribution: Highest from customers aged 65–80, followed by 55–64
 
-## 🖼️ Dashboard Screenshot
-
-![Customer Overview & Segmentation](Dashboard1.PNG)
 
 ### 📌 Dashboard 2: Churn Analysis & Revenue Impact
 
 ### 🖼️ Dashboard Screenshot
 
-![telecom customer churn](images/Dashboard2.PNG)
+![telecom customer churn](images/Dashboard 2.PNG)
 
 
 - Total Churned Customers: 1,869
