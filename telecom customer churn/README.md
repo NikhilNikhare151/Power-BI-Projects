@@ -13,7 +13,7 @@ The goal of this project is to visualize and analyze customer data to understand
 
 ### 🖼️ Dashboard Screenshot
 
-![telecom customer churn](images/Dashboard 1.PNG)
+![Dashboard 1](images/Dashboard%201.PNG)
 
 
 - Total Active Customers: 4,720
